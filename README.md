@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pratik-Merekar
+- 👋 Hello World!! I’m @ProgrammerPratik
 - 👀 I’m interested in watching anime, reading manga, and learing new interesting stuff
 - 🌱 I’m currently learning Javascript, C & HTML
 - 💞️ I’m looking to collaborate on [nothing currently]
