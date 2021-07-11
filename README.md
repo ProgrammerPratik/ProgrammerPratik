@@ -2,7 +2,7 @@
 #### I am a newbie in programming and learning stuff
 <img align="right" width="25%" src="https://i.imgur.com/FUQSR6g.gif" />
 
-So my name is Pratik and I am kinda new to programming... but I have a lot of interest in programming and coding so if I get t o learn a concept I get it kinda fast. My interest is watching anime, reading manga, and learing new interesting stuff... I also play games a lot when free :P
+So my name is Pratik and I am kinda new to programming... but I have a lot of interest in programming and coding so if I get to learn a concept I get it kinda fast. My interest is in watching anime, reading manga, and learing new interesting stuff... I also play games a lot when free :P
 
 - 🌱 I’m currently learning C, HTML, and JavaScript a bit 
 - 👯 I’m looking to collaborate on [nothing currently] 
