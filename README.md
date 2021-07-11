@@ -1,27 +1,27 @@
-### Hi there, I'm Pratik 👋
+### Hi there 👋, my name is Pratik =D
+#### I am a newbie in programming and learning stuff
+<img align="right" width="25%" src="https://i.imgur.com/FUQSR6g.gif" />
 
-## I'm a Student right now
+So my name is Pratik and I am kinda new to programming... but I have a lot of interest in programming and coding so if I get t o learn a concept I get it kinda fast. My interest is watching anime, reading manga, and learing new interesting stuff... I also play games a lot when free :P
 
-- 🔭 I am kinda new to programming...
-- 👀 I’m interested in watching anime, reading manga, and learing new interesting stuff
-- 🌱 I’m currently learning Javascript, C & HTML and everything 🤣
-- 💞️ I’m looking to collaborate on [nothing currently]
-- 🥅 Goals: Learn languages like JS and PY to make some awesome programs
-- ⚡ Fun fact: I love to drawing and sketching =D
-- 📫 How to reach me: DM on discord on @NARUTO#0855 I will respond
+- 🌱 I’m currently learning C, HTML, and JavaScript a bit 
+- 👯 I’m looking to collaborate on [nothing currently] 
+- 🤔 I’m looking for help with functions in C [consider helping out if you know] 
+- 📫 How to reach me: DM on discord on @NARUTO#0855 I will respond 
+- ⚡ Fun fact: I love to drawing and sketching =D 
 
-### Connect with me:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCXd0DADvZlFZiOB7UuM1MAw)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/naruto_flames)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/mQPwxWW)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/narutoflames/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/narutoflames) 
 
-[<img align="left" alt="Naruto Flames | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Naruto Flames | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Naruto Flames | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerPratik)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerPratik&show_icons=true)  
 
-[twitter]: https://twitter.com/naruto_flames
-[youtube]: https://www.youtube.com/channel/UCXd0DADvZlFZiOB7UuM1MAw
-[instagram]: https://www.instagram.com/narutoflames/
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ProgrammerPratik)  
 
+![Profile views](https://gpvc.arturio.dev/ProgrammerPratik)  
 
 <!---
 Pratik-Merekar/Pratik-Merekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
