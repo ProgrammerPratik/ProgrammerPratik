@@ -4,10 +4,10 @@
 
 So my name is Pratik and I am kinda new to programming... but I have a lot of interest in programming and coding so if I get to learn a concept I get it kinda fast. My interest is in watching anime, reading manga, and learing new interesting stuff... I also play games a lot when free :P
 
-- 🌱 I’m currently learning C, HTML, and JavaScript a bit 
+- 🌱 I’m currently learning JAVA and JavaScript 
 - 👯 I’m looking to collaborate on [nothing currently] 
 - 🤔 I’m looking for help with functions in C [consider helping out if you know] 
-- 📫 How to reach me: DM on discord on @NARUTO#0855 I will respond 
+- 📫 How to reach me: DM on discord on @Kat23#0855 I will respond 
 - ⚡ Fun fact: I love to drawing and sketching =D 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCXd0DADvZlFZiOB7UuM1MAw)
