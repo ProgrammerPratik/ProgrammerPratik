@@ -5,7 +5,7 @@
 
 - 🌱 Always trying and learning new concepts
 - 📫 How to reach me: DM on linkedin or twitter
-- ⚡ I love to sketching and calisthenics
+- ⚡ I love sketching and calisthenics
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-merekar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/naruto_flames) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratik0040)
