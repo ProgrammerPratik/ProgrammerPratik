@@ -6,7 +6,7 @@
 - 🌱 Always trying and learning new concepts
 - 📫 How to reach me: DM on linkedin or twitter
 - ⚡ I love sketching and calisthenics
-- visit my website [here](programmerpratik.github.io) 
+- visit my website [here](https://programmerpratik.github.io) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-merekar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/pratikxm)
