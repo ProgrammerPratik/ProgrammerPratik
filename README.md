@@ -24,3 +24,4 @@
 Pratik-Merekar/Pratik-Merekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![](https://visitcount.itsvg.in/api?id=ProgrammerPratik&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
