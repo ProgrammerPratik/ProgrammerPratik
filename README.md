@@ -2,11 +2,8 @@
 #### im a programmer
 <img align="right" width="25%" src="https://i.imgur.com/FUQSR6g.gif" />
 
-
-- 🌱 Always trying and learning new concepts
-- 📫 How to reach me: DM on linkedin or twitter
-- ⚡ I love sketching and calisthenics
-- visit my website [here](https://programmerpratik.github.io) 
+- Check out all my articles and projects on my website [here](https://programmerpratik.github.io) 
+- How to reach me: DM on linkedin or twitter
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-merekar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/pratiksm)
