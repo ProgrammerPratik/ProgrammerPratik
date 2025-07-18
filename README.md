@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Pratik
-#### im a programmer
+#### im a backend programmer
 <img align="right" width="25%" src="https://i.imgur.com/FUQSR6g.gif" />
 
 - Check out all my articles and projects on my website [here](https://programmerpratik.github.io) 
